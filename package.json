@@ -1,6 +1,6 @@
 {
 	"name": "react-application",
-	"homepage": "https://gitname.github.io/react-gh-pages",
+	"homepage": "https://viveksray17.github.io/height-converter",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -15,7 +15,7 @@
 	},
 	"scripts": {
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d deploy",
+		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
