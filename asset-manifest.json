@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/height-converter/static/css/main.4169f80c.css",
+    "main.js": "/height-converter/static/js/main.6ed410ca.js",
+    "index.html": "/height-converter/index.html",
+    "main.4169f80c.css.map": "/height-converter/static/css/main.4169f80c.css.map",
+    "main.6ed410ca.js.map": "/height-converter/static/js/main.6ed410ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4169f80c.css",
+    "static/js/main.6ed410ca.js"
+  ]
+}
